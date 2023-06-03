@@ -1,0 +1,15 @@
+{
+    "name": "attila/dive-hard-tours-test",
+    "autoload": {
+        "psr-4": {
+            "XmlProcessor\\": "src/XmlProcessor"
+        }
+    },
+    "authors": [
+        {
+            "name": "Attila Balogh",
+            "email": "balattila77@gmail.com"
+        }
+    ],
+    "require": {}
+}
